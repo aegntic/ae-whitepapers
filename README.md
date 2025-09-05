@@ -6,7 +6,7 @@ This repository hosts two foundational texts for the AEGNTIC project:
   File: [`./computational-amplification-whitepaper.pdf`](./computational-amplification-whitepaper.pdf)
 
 - **Aegntic Whitepaper Notice** (`Aegntic Whitepaper Notice.pdf`) — the language/ontology rationale behind “AEGNT: Algorithms Evolving Generative Neural Thresholds.”  
-  File: [`./Aegntic%20Whitepaper%20Notice.pdf`](./aegntic-whitepaper-notice.pdf)
+  File: [`./aegntic-whitepaper-notice.pdf`](./aegntic-whitepaper-notice.pdf)
 
 ---
 
