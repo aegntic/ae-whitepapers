@@ -3,10 +3,12 @@
 This repository hosts two foundational texts for the AEGNTIC project:
 
 - **Computational Amplification Through Aegntic AI** (`computational-amplification-whitepaper.pdf`) — a practical framework for orchestrating parallel, agentic development with measurable ROI.  
-  File: [`./computational-amplification-whitepaper.pdf`](./computational-amplification-whitepaper.pdf)
+  File:[computational-amplification-whitepaper.pdf](https://github.com/user-attachments/files/22170763/computational-amplification-whitepaper.pdf)
+
 
 - **Aegntic Whitepaper Notice** (`Aegntic Whitepaper Notice.pdf`) — the language/ontology rationale behind “AEGNT: Algorithms Evolving Generative Neural Thresholds.”  
-  File: [`./aegntic-whitepaper-notice.pdf`](./aegntic-whitepaper-notice.pdf)
+  File: [aegntic-whitepaper-notice.pdf](https://github.com/user-attachments/files/22170796/aegntic-whitepaper-notice.pdf)
+
 
 ---
 
